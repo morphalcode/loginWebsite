@@ -14,4 +14,3 @@ def return_first():
 def return_second():
     return render_template("second.html")
 
-#Test
